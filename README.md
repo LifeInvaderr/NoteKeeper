@@ -4,7 +4,7 @@ URL to this repository https://github.com/LifeInvaderr/NoteKeeper
 URL to the deployed site https://notekeeperandtaker.herokuapp.com/
 
 
-![NoteKeeper-img](images\NoteKeeper-img.PNG)
+![NoteKeeper-img](images/NoteKeeper-img.PNG)
 
 ## How I started this project
 With this project, I started right after finishing the module, as I figured that I could compare both the last lesson, and my current challenge.
