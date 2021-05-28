@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker
 URL to this repository https://github.com/LifeInvaderr/NoteKeeper
 
 URL to the deployed site https://notekeeperandtaker.herokuapp.com/
